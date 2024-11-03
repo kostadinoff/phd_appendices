@@ -15,7 +15,7 @@
 
 ## Съдържание
 
-1. [Дисертационен труд](https://drive.google.com/file/d/10n8k_i5KmW14yCwY3ASq1iikOv7Ijfqa/view?usp=drive_link)
+1. [Дисертационен труд](https://drive.google.com/file/d/10GChzqF_gM-3ZtrQORBHb3SUchGSH_lr/view?usp=drive_link)
 2. [Автореферат на български език](https://drive.google.com/file/d/119F4pDDrgKCBP2pHUZJVq7wGU4p0Ioxh/view?usp=drive_link)
 3. [Автореферат на английски език](https://drive.google.com/file/d/11IBB3blt-JpjmbF9h3shapAYzChG_xom/view?usp=drive_link)
 4. [Допълнителни приложения извън дисертационния труд](./Appendices)
